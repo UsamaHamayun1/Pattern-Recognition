@@ -2,5 +2,5 @@ The Aim of this Repo is to Detect Facial Expression using pattern recognition, T
 
 
 
-![Alt text](accuracy .png)
+![Alt text](accuracy.png)
 
